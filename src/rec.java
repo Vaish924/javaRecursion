@@ -1,4 +1,4 @@
-public class rec {
+/*public class rec {
     public static void  dec(int n)
     {
         if(n==0)
@@ -13,4 +13,4 @@ public class rec {
         int n=5;
         dec(n);
     }
-}
+}*/
