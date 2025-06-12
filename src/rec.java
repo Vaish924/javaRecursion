@@ -26,7 +26,7 @@ public class rec{
     public static void main(String args[])
     {
         int n=5;
-        fact(n,);
+        fact(n);
 
     }
 }
