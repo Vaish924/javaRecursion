@@ -78,7 +78,7 @@
 
 //calculate x raise to n
 
-public class rec{
+/*public class rec{
     public static int cal(int x,int n)
     {
         if(n==0){
@@ -99,4 +99,5 @@ public class rec{
        int ans=cal(x,n);
        System.out.println(ans);
     }
-}
+}*/
+
